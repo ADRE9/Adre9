@@ -1,4 +1,4 @@
-### Hi there, I'm Arshad - aka [MAK][website] 👋
+### Hi there, I'm Arshad - aka [MAK] 👋
 
 ## I'm a Developer, Student, and Learner!!
 
