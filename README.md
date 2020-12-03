@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Student, and Learner!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning REACT NATIVE 😎
 - 👯 I’m looking to develop new apps
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love coffee and youtube
