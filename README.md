@@ -1,10 +1,10 @@
 ### Hi there, I'm Arshad - aka [MAK] 👋
 
-## I'm a Developer, Student, and Learner!!
+## I'm a Microsoft Student Ambassador, Community Lead, Developer, and Learner!!
 
-- 🌱 I’m currently learning REACT NATIVE 😎
+- 🌱 I’m currently learning REACT NATIVE, AZURE Cloud Services 😎
 - 👯 I’m looking to develop new apps
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn GraphQl, PostgreSql and contribute more to Open Source projects.
 - ⚡ Fun fact: I love coffee and youtube
 
 
