@@ -1,4 +1,4 @@
-### Hi there, I'm Arshad - aka [MAK] 👋
+### Hi there, I'm Arshad 👋
 
 ## I'm a Microsoft Student Ambassador, Community Lead, Developer, and Learner!!
 
