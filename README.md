@@ -54,7 +54,4 @@ START_SECTION:activity
 [instagram]: https://instagram.com/immak13
 [linkedin]: https://www.linkedin.com/in/md-arshad-khan-b29ba8184/
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-//[website]: https://codeSTACKr.com
->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adre9&show_icons=true&locale=en" alt="adre9" /></p>
