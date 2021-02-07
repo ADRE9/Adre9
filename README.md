@@ -1,5 +1,8 @@
 ### Hi there, I'm Arshad 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adre9&label=Profile%20views&color=0e75b6&style=flat" alt="adre9" /> </p>
+
+
 ## I'm a Microsoft Student Ambassador, Community Lead, Developer, and Learner!!
 
 - 🌱 I’m currently learning REACT NATIVE, AZURE Cloud Services 😎
