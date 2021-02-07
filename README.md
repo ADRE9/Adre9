@@ -1,8 +1,5 @@
 ### Hi there, I'm Arshad 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adre9&label=Profile%20views&color=0e75b6&style=flat" alt="adre9" /> </p>
-
-
 ## I'm a Microsoft Student Ambassador, Community Lead, Developer, and Learner!!
 
 - 🌱 I’m currently learning REACT NATIVE, AZURE Cloud Services 😎
@@ -57,4 +54,8 @@ START_SECTION:activity
 [instagram]: https://instagram.com/immak13
 [linkedin]: https://www.linkedin.com/in/md-arshad-khan-b29ba8184/
 
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adre9&label=Profile%20views&color=0e75b6&style=flat" alt="adre9" /> </p>
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adre9" alt="adre9" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adre9&show_icons=true&locale=en" alt="adre9" /></p>
