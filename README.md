@@ -2,11 +2,10 @@
 
 ## I'm a Microsoft Student Ambassador, Open Source Contributer, Community Lead, Developer, and Learner!!
 
-
+- 🌱 TECHNICAL ANALYST AT Credit Suisse.
 - 🌱 GSSOC 2021 PROJECT ADMIN and MENTOR.
-- 🌱 I’m currently learning REACT NATIVE, AZURE Cloud Services 😎
 - 👯 I’m looking to develop Mobile Apps and contribute to Open Source.
-- 🥅 2021 Goals: Learn GraphQl, PostgreSql and contribute more to Open Source projects.
+- 🥅 2022 Goals: Learn GraphQl, PostgreSql and contribute more to Open Source projects.
 - ⚡ Fun fact: I love coffee and youtube.
 
 
