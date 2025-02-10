@@ -1,11 +1,12 @@
 ### Hi there, I'm Arshad 👋
 
-## I'm a Microsoft Student Ambassador, Open Source Contributer, Community Lead, Developer, and Learner!!
+## I'm a React Native and MERN Stack application Developer, and Learner!!
 
-- 🌱 TECHNICAL ANALYST AT Credit Suisse.
+- 🌱 SDE @ UBS.
+- 🌱 REACT NATIVE Cross Platform Application Developer
 - 🌱 GSSOC 2021 PROJECT ADMIN and MENTOR.
 - 👯 I’m looking to develop Mobile Apps and contribute to Open Source.
-- 🥅 2022 Goals: Learn GraphQl, PostgreSql and contribute more to Open Source projects.
+- 🥅 2025 Goals: Learn Android and iOS native modules, PostgreSql and contribute more to Open Source projects.
 - ⚡ Fun fact: I love coffee and youtube.
 
 
@@ -35,21 +36,6 @@
 
 <br />
 <br />
-<!--
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-START_SECTION:activity
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-</details>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-</details>
--->
 
 [twitter]: https://twitter.com/iam_mak13
 [instagram]: https://instagram.com/immak13
@@ -58,4 +44,3 @@ START_SECTION:activity
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adre9&label=Profile%20views&color=0e75b6&style=flat" alt="adre9" /> </p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adre9&show_icons=true&locale=en" alt="adre9" /></p>
